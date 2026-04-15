@@ -1,0 +1,5 @@
+# HVAC-window + Sinergym (Python >=3.12). Install: pip install -r requirements.txt
+# EnergyPlus must be installed; pyenergyplus is exposed via .venv/.../site-packages/energyplus_pythonpath.pth
+sinergym>=3.12,<4
+# PMV/PPD (ISO 7730) cho scripts/sinergym_energy_comfort_demo.py — pip có thể cảnh báo xung đột numpy với sinergym; thực tế vẫn chạy nếu dùng numpy>=2.3.2.
+pythermalcomfort>=2.0
