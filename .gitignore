@@ -2,10 +2,7 @@
 sinergym_runs/
 .lock
 
-# Environment and Data
+# Environment
 .venv/
-*.csv
-*.png
-*.gif
 __pycache__/
 .ipynb_checkpoints/
