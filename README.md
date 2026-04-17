@@ -9,7 +9,7 @@ Results:
 
 <img width="757" height="92" alt="image" src="https://github.com/user-attachments/assets/8b085615-50fd-44d6-9146-7b64fa7905d9" />
 
-## Hướng dẫn vận hành (Vietnam Adaptation)
+## Hướng dẫn vận hành
 
 Dưới đây là các bước để vận hành lại toàn bộ dự án từ dữ liệu thô đến kết quả so sánh cuối cùng cho khí hậu Việt Nam (Hà Nội).
 
