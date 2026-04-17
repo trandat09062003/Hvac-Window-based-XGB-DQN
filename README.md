@@ -4,6 +4,11 @@ Develop base on:
 
 **Publication** : Occupant-centric HVAC and window control: A reinforcement learning model for enhancing indoor thermal comfort and energy efficiency. [Building and Environment](https://www.sciencedirect.com/science/article/abs/pii/S0360132324000398) (2024): 111197.
 
+Kết quả dạt được:
+<img width="1345" height="900" alt="image" src="https://github.com/user-attachments/assets/04ad206b-cac1-4e41-a47c-c6a7ad3f7208" />
+
+<img width="757" height="92" alt="image" src="https://github.com/user-attachments/assets/8b085615-50fd-44d6-9146-7b64fa7905d9" />
+
 ## Hướng dẫn vận hành (Vietnam Adaptation)
 
 Dưới đây là các bước để vận hành lại toàn bộ dự án từ dữ liệu thô đến kết quả so sánh cuối cùng cho khí hậu Việt Nam (Hà Nội).
