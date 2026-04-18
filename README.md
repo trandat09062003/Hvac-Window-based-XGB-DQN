@@ -16,7 +16,7 @@ Dưới đây là các bước để vận hành lại toàn bộ dự án từ 
 ### Giai đoạn 1: Huấn luyện Mô hình XGBoost (Surrogate Model)
 Mô hình này giúp dự báo sự thay đổi nhiệt độ trong nhà, đóng vai trò là "máy giả lập" cho RL.
 1. Mở file `XGB-DQN.ipynb`.
-2. Chạy các Cell đầu tiên (S1, S2) để tiền xử lý dữ liệu từ `Cleaned_data_encode.csv` và huấn luyện mô hình XGBoost.
+2. Chạy file để tiền xử lý dữ liệu từ `Cleaned_data_encode.csv` và huấn luyện mô hình XGBoost.
 
 ### Giai đoạn 2: Sinh dữ liệu mô phỏng Hà Nội
 Chúng ta sử dụng simulator Sinergym (EnergyPlus) để tạo ra tập dữ liệu kinh nghiệm riêng cho khí hậu nóng ẩm của Hà Nội.
